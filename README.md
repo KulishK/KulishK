@@ -7,7 +7,7 @@
 
 ## 👩‍💻 About Me  
 
-I have over 7 years of experience as an **Automation Test Lead**, specializing in:  
+I have over 8 years of experience as an **Automation Test Lead**, specializing in:  
 - Building robust **automation frameworks** using tools like **Cypress, WebdriverIO, Playwright**, and more.  
 - Leading **Agile/Scrum teams**, ensuring efficient workflows and top-notch deliverables.  
 - Designing and executing **CI/CD pipelines** integrated with cloud platforms like **AWS**.  
